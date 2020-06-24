@@ -1,0 +1,9 @@
+E:\C# project\Giuaki_baitap\Giuaki_baitap\bin\Debug\Giuaki_baitap.exe.config
+E:\C# project\Giuaki_baitap\Giuaki_baitap\obj\Debug\Giuaki_baitap.csprojResolveAssemblyReference.cache
+E:\C# project\Giuaki_baitap\Giuaki_baitap\obj\Debug\Giuaki_baitap.Form1.resources
+E:\C# project\Giuaki_baitap\Giuaki_baitap\obj\Debug\Giuaki_baitap.Properties.Resources.resources
+E:\C# project\Giuaki_baitap\Giuaki_baitap\obj\Debug\Giuaki_baitap.csproj.GenerateResource.Cache
+E:\C# project\Giuaki_baitap\Giuaki_baitap\bin\Debug\Giuaki_baitap.exe
+E:\C# project\Giuaki_baitap\Giuaki_baitap\bin\Debug\Giuaki_baitap.pdb
+E:\C# project\Giuaki_baitap\Giuaki_baitap\obj\Debug\Giuaki_baitap.exe
+E:\C# project\Giuaki_baitap\Giuaki_baitap\obj\Debug\Giuaki_baitap.pdb
